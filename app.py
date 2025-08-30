@@ -1,4 +1,3 @@
-
 from flask import Flask, jsonify
 import mysql.connector
 import redis
