@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Environment files
+*.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.iml
+
+# Testing/coverage
+.coverage
+*.coverage
+.pytest_cache/
+htmlcov/
+
+# Build/dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Redis dump files
+dump.rdb
+*.aof
+
+# MySQL dumps
+*.sql
+*.sql.gz
